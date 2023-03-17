@@ -26,7 +26,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _logo_svg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_logo_svg__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./App.css */ "./src/App.css");
 /* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_App_css__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\OpenServer\\domains\\qdc.my\\wp-content\\themes\\barebones\\react-src\\src\\App.js";
+var _jsxFileName = "C:\\OpenServer\\domains\\qdc.my\\wp-content\\themes\\qdc\\react-src\\src\\App.js";
 
 
 
@@ -118,7 +118,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./App */ "./src/App.js");
 /* harmony import */ var _serviceWorker__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./serviceWorker */ "./src/serviceWorker.js");
-var _jsxFileName = "C:\\OpenServer\\domains\\qdc.my\\wp-content\\themes\\barebones\\react-src\\src\\index.js";
+var _jsxFileName = "C:\\OpenServer\\domains\\qdc.my\\wp-content\\themes\\qdc\\react-src\\src\\index.js";
 
 
 
@@ -267,7 +267,7 @@ function unregister() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\OpenServer\domains\qdc.my\wp-content\themes\barebones\react-src\src\index.js */"./src/index.js");
+module.exports = __webpack_require__(/*! C:\OpenServer\domains\qdc.my\wp-content\themes\qdc\react-src\src\index.js */"./src/index.js");
 
 
 /***/ })
